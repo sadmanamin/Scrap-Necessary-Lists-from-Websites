@@ -15,7 +15,7 @@ VOCABULARY.COM
 If anyone wants to copy all the words from a list, follow the procedure described below:
 1. Select a list.
 2. Open the console using inspect element.
-3. Run vjudge.js code on that console.
+3. Run galvanize.js code on that console.
 4. Words will be copied to clipboard.
 
 MORE WEBSITES WILL BE ADDED. THIS IS ONLY FOR QUICK COPY AND PASTE TO GRAB A LIST.
