@@ -18,4 +18,13 @@ If anyone wants to copy all the words from a list, follow the procedure describe
 3. Run galvanize.js code on that console.
 4. Words will be copied to clipboard.
 
+CRUNCHPREP 101 WORDS 
+
+If anyone wants to copy all the words 101 CrunchPrep High Frequency words, follow the procedure described below:
+1. Go to this site - https://crunchprep.com/gre/101-high-frequency-gre-words?fbclid=IwAR0hxU_XIu3TNrHZFwtqBe3CkhuPa0dEzS5eGERLaglhfBh2ToN9JMRczEw
+2. Open the console using inspect element.
+3. Run crunchprep.js code on that console.
+4. Words will be copied to clipboard.
+
+
 MORE WEBSITES WILL BE ADDED. THIS IS ONLY FOR QUICK COPY AND PASTE TO GRAB A LIST.
